@@ -9,5 +9,13 @@ body {
 
 #seccion-contacto, footer {
 	background-color: #1B2A4E;
-	min-height: 200px;
+	color: white;
+}
+
+#seccion-contacto {
+	min-height: 60%;
+}
+
+footer {
+	min-height: 90px;
 }
