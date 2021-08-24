@@ -1,0 +1,13 @@
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+#seccion-contacto footer {
+	background-color: #1B2A4E;
+	min-height: 200px;
+}
